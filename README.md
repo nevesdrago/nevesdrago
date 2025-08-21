@@ -1,5 +1,3 @@
-## Eduardo Drago | Bem-vindo ao meu perfil!
-
 # 👨‍💻 Eduardo Drago | Bem-vindo ao meu perfil!
 
 <mark>DESENVOLVEDOR BACKEND</mark>
